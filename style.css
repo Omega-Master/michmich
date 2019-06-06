@@ -7,6 +7,7 @@ h1 {
   text-align : center;
   font-family : Arial;
   font-size : 60px;
+  font-style : italic;
   color : blue;
   text-decoration : underline;
   direction : rtl;
@@ -16,13 +17,31 @@ h2 {
   text-align : center;
   font-family : Arial;
   font-size : 50px;
+  font-style : italic
   color : yellow;
   text-decoration : underline;
 }
 
- p {
-   text-align : justify;
-   font-family : Times New Roman;
-   font-size : 20px;
-   color : red;
+h3 {
+  text-align : left;
+  font-family : Calibri;
+  font-size : 40px;
+  color : purple;
+  text-decoration : underline;
+}
+
+pre {
+  text-align : justify;
+  font-family : Times New Roman;
+  font-size : 25px
+  color : red;
+  line-height : 1.5;
+}
+
+p {
+  text-align : justify;
+  font-family : Times New Roman;
+  font-size : 25px;
+  color : red;
+  line-height : 1.5;
 }
