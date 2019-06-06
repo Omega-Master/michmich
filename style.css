@@ -11,6 +11,13 @@ h1 {
   direction : rtl;
 }
 
+h2 {
+  text-align : center;
+  font-family : Arial;
+  font-size : 50px;
+  color : yellow;
+  text-decoration : underline;
+}
 
  p {
    text-align : justify;
