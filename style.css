@@ -6,7 +6,8 @@ h1 {
   font-family : Arial;
   font-size : 60px;
   color : blue;
-  text-decoration: overline;
+  text-decoration : underline;
+  direction : rtl
 }
 
 
