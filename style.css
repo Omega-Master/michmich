@@ -1,7 +1,15 @@
 body {
   background-image : url("http://coloriagefree.site/wp-content/uploads/2018/09/super-saiyan-4-goku-wallpaper-group-76-destine-sangoku-super-saiyan-4.jpg");
 }
+h1 {
+  text-align : center;
+  font-family : Arial;
+  font-size : 40px;
+  color : blue;
+}
  p {
-   text-align : center;
+   text-align : justify;
    font-family : Times New Roman;
+   font-size : 14px;
+   color : red;
 }
